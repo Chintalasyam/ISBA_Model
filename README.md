@@ -65,7 +65,8 @@ The simulation outputs are organized according to the respective study sites, al
 
 ISBA-A-gs is a land surface modelling framework that represents exchanges of energy, water, and carbon between the land surface, vegetation, and atmosphere. The model incorporates vegetation physiological processes, including photosynthesis and stomatal regulation, to simulate ecosystem carbon and water fluxes.
 
-In this study, ISBA-A-gs was used to investigate GPP, ET, and WUE dynamics across two contrasting agricultural environments.
+In this study, ISBA-A-gs was used to investigate GPP, ET, and WUE dynamics across two contrasting agricultural environments. Please read the full manual of ISBA-A-gs before working and you access manual here: https://www.umr-cnrm.fr/surfex/spip.php?article187
+
 
 ## Data Availability and Reproducibility
 
@@ -82,6 +83,13 @@ The repository is intended to support researchers interested in:
 ## Acknowledgements
 
 The authors acknowledge the institutions, research teams, and data providers associated with the FR-Lam and Ind-IITH study sites for providing the datasets and scientific support required for this research.
+
+
+Citation: Chintala, S., Jarlan, L., Rivalland, V., Boone, A., Dare-Idowu, O., Le Dantec, V., Boulet, G., Kambhammettu, B.P.,
+Brut, A., 2026. Understanding ecosystem gross primary productivity, evapotranspiration, and water use
+efficiency of maize using ISBA-A-gs land surface model over temperate and tropical semi-arid climates.
+EGUsphere, preprint en discussion pour Biogeosciences. doi:10.5194/egusphere-2026-3119
+
 
 ## Contact
 
